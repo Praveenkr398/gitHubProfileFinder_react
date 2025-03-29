@@ -29,6 +29,7 @@
 - **Frontend:** React.js
 - **Styling:** CSS
 - **API:** GitHub API
+![image](https://github.com/user-attachments/assets/66c1f270-85a1-4079-95f7-a9c5d67acdff)
 
 ## 📷 Preview
 ![GitHub Profile Finder](https://raw.githubusercontent.com/Praveenkr398/gitHubProfileFinder_react/main/preview.png)
