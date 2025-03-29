@@ -34,8 +34,12 @@
 
 ![image](https://github.com/user-attachments/assets/66c1f270-85a1-4079-95f7-a9c5d67acdff)
 
-## 🚀 Installation Guide
-1. Clone this repository:
-   ```sh
-   git clone https://github.com/Praveenkr398/gitHubProfileFinder_react.git
 
+## 📞 **Contact & Connect**
+
+💡 **Developed by:** Praveen Kumar Pandit  
+📧 **Email:** prajatech355@gmail.com  
+💻 **GitHub:** [Praveenkr398](https://github.com/Praveenkr398)  
+🔗 **LinkedIn:** [linkedin.com/in/Praveenkr398](https://www.linkedin.com/in/Praveenkr398)  
+
+🚀 **Looking for a Front-End Developer with React expertise? Let’s connect!**
