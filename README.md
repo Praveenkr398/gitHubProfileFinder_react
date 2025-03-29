@@ -1,12 +1,43 @@
-# React + Vite
+# GitHub Profile Finder
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Project Preview](https://raw.githubusercontent.com/Praveenkr398/gitHubProfileFinder_react/main/preview.png)
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📌 Project Description
+**GitHub Profile Finder** is a web application built using **React.js** that utilizes the **GitHub API** to fetch and display GitHub user profiles based on their username.
 
-## Expanding the ESLint configuration
+## 🔹 Live Demo
+[GitHub Profile Finder](https://igithubprofilefinder.netlify.app/)
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🔹 Repository
+[GitHub Repo](https://github.com/Praveenkr398/gitHubProfileFinder_react)
+
+## 🛠 Features
+- **GitHub API Integration:** Fetches user profile details using the entered GitHub username.
+- **Error Handling:** Displays a "User Not Found" message if the username is incorrect.
+- **Detailed Profile Data:**
+  - Profile Picture
+  - Full Name
+  - Username
+  - Location
+  - Company Name
+  - Followers & Following Count
+  - Number of Public Repositories
+  - Account Creation & Last Updated Date
+  - Social Media Links (if available)
+- **Visit Profile Button:** Direct link to the user's GitHub profile.
+- **Responsive UI:** Styled effectively using CSS.
+
+## 🖥 Tech Stack
+- **Frontend:** React.js
+- **Styling:** CSS
+- **API:** GitHub API
+
+## 📷 Preview
+![GitHub Profile Finder] (https://github.com/user-attachments/assets/8c454406-8bec-40c6-8efa-c557cfc52284)
+
+## 🚀 Installation Guide
+1. Clone this repository:
+   ```sh
+   git clone https://github.com/Praveenkr398/gitHubProfileFinder_react.git
+
