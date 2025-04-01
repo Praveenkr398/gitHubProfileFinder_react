@@ -34,6 +34,8 @@
 
 ![image](https://github.com/user-attachments/assets/66c1f270-85a1-4079-95f7-a9c5d67acdff)
 
+Category:- "Mini Project, React, Hook, CSS, Api"
+
 
 ## 📞 **Contact & Connect**
 
