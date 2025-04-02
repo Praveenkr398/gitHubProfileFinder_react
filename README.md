@@ -6,7 +6,7 @@
 
 ## 🚀 **Live Demo & GitHub Repository**
 
-🔗 **Live Demo:** [News Website](https://igithubprofilefinder.netlify.app/)  
+🔗 **Live Demo:** [Live on Netlify](https://igithubprofilefinder.netlify.app/)  
 
 🔹 Repository
 [GitHub Repo](https://github.com/Praveenkr398/gitHubProfileFinder_react)
