@@ -3,8 +3,8 @@
 ## 📌 Project Description
 **GitHub Profile Finder** is a web application built using **React.js** that utilizes the **GitHub API** to fetch and display GitHub user profiles based on their username.
 
-## 🔹 Live Demo
-[GitHub Profile Finder](https://igithubprofilefinder.netlify.app/)
+
+🔗 **Live Demo:** [News Website](https://igithubprofilefinder.netlify.app/)  
 
 ## 🔹 Repository
 [GitHub Repo](https://github.com/Praveenkr398/gitHubProfileFinder_react)
